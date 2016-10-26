@@ -1,6 +1,6 @@
 {
   "name": "redux-batched-subscribe",
-  "version": "0.1.6",
+  "version": "0.1.7-seek.1",
   "description": "redux store enhancer which allows batching subscribe notifications.",
   "main": "lib/index.js",
   "files": [
